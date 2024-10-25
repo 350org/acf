@@ -1,0 +1,23 @@
+{
+  "name": "350org/acf",
+  "description": "Advanced Custom Fields",
+  "version": "6.3.9",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://www.advancedcustomfields.com",
+  "authors": [
+    {
+      "name": "WP Engine",
+      "homepage": "https://wpengine.com/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=plugin_directory&utm_content=advanced_custom_fields"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "extra": {
+    "installer-name": "acf"
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
